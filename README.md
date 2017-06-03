@@ -1,16 +1,16 @@
-Portal Prevenci髇 Violencia de G閚ero 0.9
+Portal Prevenci贸n Violencia de G茅nero 0.9
 =========================================
 
-Portal web promocional para la prevenci髇 de la violencia de g閚ero desarrollado en HTML.
-La plataforma cuenta con una secci髇 de inicio, informaci髇, agenda, preguntas frecuentes, 
+Portal web promocional para la prevenci贸n de la violencia de g茅nero desarrollado en HTML.
+La plataforma cuenta con una secci贸n de inicio, informaci贸n, agenda, preguntas frecuentes, 
 documentos, enlaces, contacto, encuestas, etc...
 
-La p醙ina cuenta con una agenda extensa de fechas importantes relacianadas con la tem醫ica
-tratada, diversos documentos y normativas auton髆icas, nacionales y europeas, varios links
-a p醙inas de prevenci髇, una secci髇 de contacto con informaci髇 de ayuda, un m骴ulo de 
-accesibilidad que permite ampliar y/o reducir el tama駉 del texto, etc..
+La p谩gina se compone de una agenda extensa con fechas importantes relacianadas con la tem谩tica
+tratada, diversos documentos y normativas auton贸micas, nacionales y europeas, varios links
+a p谩ginas de prevenci贸n, una secci贸n de contacto con informaci贸n de ayuda, un m贸dulo de 
+accesibilidad que permite ampliar y/o reducir el tama帽o del texto, etc..
 
 ## Licencia
-Esta aplicaci髇 se ofrece bajo licencia [AGPL versi髇 3].
+Esta aplicaci贸n se ofrece bajo licencia [AGPL versi贸n 3].
 
-[AGPL versi髇 3]: http://www.gnu.org/licenses/agpl.html
+[AGPL versi贸n 3]: http://www.gnu.org/licenses/agpl.html
