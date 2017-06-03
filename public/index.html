@@ -1,9 +1,82 @@
 <!DOCTYPE html>
 <html lang="es">
-	<head>
-		<meta charset="utf-8"/>
-		<title></title>
-	</head>
-	<body>
-	</body>
+    <head>
+        <meta charset="utf-8">
+		<title>Portal de Prevención</title>
+        <link rel="stylesheet" type="text/css" href="css/estilos.css" media="screen">
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+    </head>
+    <body id="inicio">
+        <div id="contenido">
+            <div id="ampliador">
+                <img id="mas"   alt="Ampliar texto" src="img/ampliar.png"/>
+                <img id="menos" alt="Reducir Texto" src="img/reducir.png"/>
+            </div>
+            <header>
+                <h1 class="logo"><a title="Inicio" href="index.html">Inicio</a></h1>
+            </header>
+			<div class="limpiar"></div>
+            <nav id="nav-main">
+                <ul>
+                    <li id="nav-inicio"><a href="index.html" class="selected">INICIO</a></li>
+                    <!--<li id="nav-bbbbb"><a href=""></a></li>-->
+                    <li id="nav-agenda"><a href="pag/agenda.html">AGENDA</a></li>
+                    <li id="nav-faq"><a href="pag/faq-asistencia.html">FAQ</a></li>
+                    <li id="nav-links"><a href="pag/links.html">LINKS</a></li>
+                    <!--<li id="nav-lllll"><a href=""></a></li>-->
+                    <li id="nav-info"><a href="pag/info.html">INFO</a></li>
+                    <li id="nav-documentos"><a href="pag/documentos-autonomicos.html">DOCUMENTOS</a></li>
+                    <li id="nav-contacto"><a href="pag/contacto.html">CONTACTO</a></li>
+                </ul>
+            </nav>
+            <div id="cuerpo">
+                <div id="articulo">
+                    <h1>Bienvenido al Portal de Prevención</h1>
+                    <p id="fecha"></p>
+                    <p>Te damos la Bienvenida al nuevo Portal de Prevención Integral de la Violencia de Género. Con el objeto de tratar los asuntos relacionados con la Violencia, se han habilitado secciones informativas en la parte superior de la página.</p>
+                    <p>Ante cualquier duda o consulta, puede utilizar la sección de Contacto del Portal (haciendo click <a href="pag/contacto.html" title="Enlace Contacto">aquí</a>) o utilizar el Correo electrónico y teléfono facilitados a la izquierda.</p>
+                    <div class="sub-izq">La Educación es la Vacuna contra la Violencia. <i>(Edward James Olmos)</i>.</div>
+                    <div class="sub-der">Educad a los Niños y no será necesario Castigar a los Hombres. <i>(Pitágoras)</i>.</div>
+                    <div class="agenda">
+                        <h2>Agenda <span id="anio"></span></h2>
+                        <ul>
+                            <li>Día Mundial de la No Violencia: 30 de Enero</li>
+                            <li>Día Internacional de la Mujer: 8 de Marzo</li>
+                            <li>Día Internacional de la Juventud: 12 de Agosto</li>
+                        </ul>
+                    </div>
+                    <div class="agenda-enlace">
+                        <a href="pag/agenda.html" title="Enlace Agenda"></a>
+                    </div>
+                    <div class="fotos">
+                        <a href="" title="Enlace"></a>
+                    </div>
+                </div>
+                <div id="aside">
+                    <div class="contacto">
+                        <h2>Contacto</h2>
+                        <p>Para obtener cualquier tipo de información sobre la Violencia de Género puedes utilizar el correo y teléfono de abajo.</p>
+                        <p class="info">Contacto <a href="mailto:informacion@juntadeandalucia.es" title="Asistencia a víctimas de violencia de género">informacion@juntadeandalucia.es</a><br/>tel. (900) 200.999</p>
+                    </div>
+                    <div class="encuesta">
+                        <h2>Encuesta</h2>
+                        <form action="#" method="post">
+                            <p>¿Has sufrido algún tipo de Violencia en tu entorno más cercano?</p>
+                            <ul>
+                                <li><label><input name="opcion" value="si" type="radio"> Sí</label></li>
+                                <li><label><input name="opcion" value="no" type="radio"> No</label></li>
+                                <li><label><input name="opcion" value="nose" type="radio"> No estoy Seguro</label></li>
+                            </ul>
+                            <input type="submit" name="enviar" class="enviar" value="">
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <p class="contacto">Odei Riveiro Zafra | Linares (Jaén) | e-mail: <a href="mailto:odei.riveiro@gmail.com" title="Odei Riveiro Zafra">odei.riveiro@gmail.com</a></p>
+                <p class="site-info">© Odei Riveiro Zafra ~ Todos los Derechos Reservados - <a href="#">disclaimer</a> &amp; <a href="#">privacy</a></p>
+                <a class="impresion" title="Página de Impresión" href="#">Página de Impresión</a>
+            </footer>
+        </div>
+    </body>
 </html>
