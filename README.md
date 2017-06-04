@@ -1,5 +1,5 @@
-Portal Prevención Violencia de Género 0.9
-=========================================
+Portal Prevención Violencia de Género 0.91
+==========================================
 
 Portal web promocional para la prevención de la violencia de género desarrollado en HTML.
 La plataforma cuenta con una sección de inicio, información, agenda, preguntas frecuentes, 
@@ -11,6 +11,6 @@ a páginas de prevención, una sección de contacto con información de ayuda, u
 accesibilidad que permite ampliar y/o reducir el tamaño del texto, etc..
 
 ## Licencia
-Esta aplicación se ofrece bajo licencia [AGPL versión 3].
+Esta aplicación se ofrece bajo licencia [GPL versión 3].
 
-[AGPL versión 3]: http://www.gnu.org/licenses/agpl.html
+[GPL versión 3]: https://www.gnu.org/licenses/gpl-3.0.en.html
