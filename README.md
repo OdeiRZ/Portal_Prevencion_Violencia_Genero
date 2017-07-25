@@ -11,7 +11,7 @@ a páginas de prevención, una sección de contacto con información de ayuda, u
 accesibilidad que permite ampliar y/o reducir el tamaño del texto, etc..
 
 ## Requisitos
-- Navegador Web [Chrome], [Firefox], [Opera], [Microsoft Edge], etc..
+- Navegador web [Chrome], [Firefox], [Opera], [Microsoft Edge], etc..
 
 ## Licencia
 Esta aplicación se ofrece bajo licencia [GPL versión 3].
