@@ -10,12 +10,15 @@ tratada, diversos documentos y normativas autonómicas, nacionales y europeas, v
 a páginas de prevención, una sección de contacto con información de ayuda, un módulo de 
 accesibilidad que permite ampliar y/o reducir el tamaño del texto, etc..
 
+Para cualquier referencia relacionada con el sitio, podemos ver el portal desplegado visitando el siguiente [enlace].
+
 ## Requisitos
 - Navegador web [Chrome], [Firefox], [Opera], [Microsoft Edge], etc..
 
 ## Licencia
 Esta aplicación se ofrece bajo licencia [GPL versión 3].
 
+[enlace]: https://odeirz.github.io/Portal_Prevencion_Violencia_Genero/public/
 [Chrome]: https://www.google.es/chrome/browser/desktop/index.html
 [Firefox]: https://www.mozilla.org/es-ES/firefox/new/
 [Opera]: http://www.opera.com/es
