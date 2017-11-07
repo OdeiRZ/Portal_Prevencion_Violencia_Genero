@@ -1,7 +1,7 @@
 Portal Prevención Violencia de Género 0.91
 ==========================================
 
-Portal web promocional para la prevención de la violencia de género desarrollado en HTML.
+Portal web promocional desarrollado en HTML para la prevención de la violencia de género.
 La plataforma cuenta con una sección de inicio, información, agenda, preguntas frecuentes, 
 documentos, enlaces, contacto, encuestas, etc...
 
